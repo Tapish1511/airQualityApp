@@ -26,8 +26,8 @@ request module is available on PyPl. It support pyhton2.7 and higher version of 
 ```
 $ python -m pip install requests
 ```
-
-### **app Perviwe**
+You can select one of the popular cities. Finally, click search button and get your results for Air Quality Index.
+### **app Perview**
 
 
 ![image](https://user-images.githubusercontent.com/87308840/166920726-00759d0f-699d-4ac7-8bd0-0a3c9ead4e8e.png)
