@@ -1,5 +1,5 @@
 # airQualityApp
-shows the aqi (Air quality index) of city using "World's Air Pollution: Real-time Air Quality Index" API
+It is like a webapp using Python that shows the Air Quality Index of a region given climate conditions using "World's Air Pollution : Real-time Air Quality Index" API.
 ## Packages required
 
 1. Tkinter - Tkinter is the standard GUI library for Python.
